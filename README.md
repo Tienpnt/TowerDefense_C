@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet est un jeu de type **Tower Defense** développé en langage C avec la bibliothèque graphique SDL (:contentReference[oaicite:0]{index=0}).
+Ce projet est un jeu de type **Tower Defense** développé en langage C avec la bibliothèque graphique SDL.
 
 Le jeu simule une confrontation entre deux camps :
 - la Horde (unités ennemies qui avancent sur un chemin)
